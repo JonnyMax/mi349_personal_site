@@ -1,0 +1,35 @@
+body{
+    background:#675050;
+    color:#3E9691;
+    padding: 50px;
+    font-family: Arial;
+
+}
+
+h1{
+    font-size: 4em;
+    padding-bottom:10px;
+    border-bottom: 3px solid seagreen;
+}
+
+h2{
+    font-size: 2.5em;
+    border-left: 3.5px solid coral;
+}
+
+
+p{
+    font-size: 1.7em;
+    color:#5A9829;
+}
+li{
+    font-size: 1.7em;
+    color:#5A9829;
+}
+.burndown{
+    background:brown;
+}
+
+#photos{
+    width: 500px;
+}
