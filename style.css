@@ -17,16 +17,16 @@ h2{
     border-left: 3.5px solid coral;
 }
 
-.burndown{
+#burndown{
     background:brown;
 }
 
-#WD{
+.WD{
     font-size: 1.7em;
     color:#5A9829;
 }
 
-#photos{
+.photos{
     width: 500px;
 }
 
