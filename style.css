@@ -17,19 +17,16 @@ h2{
     border-left: 3.5px solid coral;
 }
 
-
-p{
-    font-size: 1.7em;
-    color:#5A9829;
-}
-li{
-    font-size: 1.7em;
-    color:#5A9829;
-}
 .burndown{
     background:brown;
+}
+
+#WD{
+    font-size: 1.7em;
+    color:#5A9829;
 }
 
 #photos{
     width: 500px;
 }
+
