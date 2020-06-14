@@ -1,15 +1,15 @@
 body{
-    background:#675050;
-    color:#3E9691;
+    background:#2cbd58;
+    color:rgb(252, 252, 252);
     padding: 50px;
     font-family: Arial;
-
+    margin: 0 auto;
 }
 
 h1{
     font-size: 4em;
     padding-bottom:10px;
-    border-bottom: 3px solid seagreen;
+    border-bottom: 3px solid rgb(255, 255, 255);
 }
 
 h2{
@@ -17,16 +17,51 @@ h2{
     border-left: 3.5px solid coral;
 }
 
-#burndown{
-    background:brown;
+li{
+    background-color: rgb(207,232,220);
+    border: 2px solid coral;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
 }
+
 
 .WD{
     font-size: 1.7em;
-    color:#5A9829;
+    color:rgb(86, 112, 182);
+    line-height:2em;
 }
 
-.photos{
-    width: 500px;
+img{
+    width: 40%;
+    margin: 0;
+    padding: 20px 15px;
+   
 }
 
+.pos .avatar{
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: -150px;
+}
+
+.pos{
+
+    text-align: right;
+}
+
+p {
+    background-color: rgb(207,232,220);
+    border: 2px solid coral;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.wrapper {
+    display: flex;
+  }
+
+  .wrapper > div {
+    flex: 1;
+}
